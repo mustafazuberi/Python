@@ -1,0 +1,13 @@
+Data types :-
+integer 
+string 
+boolean 
+None
+Float 
+complex numbers (5+2j)
+list --- Collection of different elements (can be of different data types) Lists (can be changed)
+tuple --- same as list but tuples are immutable (cannot be changed)
+dictionary ---  Key value pair
+
+Every Data type is considered as object in Python
+
